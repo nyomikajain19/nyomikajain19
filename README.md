@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nyomika Jain 👋
 
-<!--
-**nyomikajain19/nyomikajain19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (2nd Year Student)  
+💻 Learning to build strong coding fundamentals  
+🌱 Exploring C, Python & Data Structures  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+I am a Computer Science student focused on consistency and clarity in coding.  
+I believe in learning concepts deeply and applying them through practice.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** C, Python  
+- **Core Subjects:** DSA, OOPS (Basics)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 What you'll find on my GitHub
+✔️ Beginner-friendly code  
+✔️ Well-structured repositories  
+✔️ Continuous learning progress  
+
+---
+
+## 🎯 Current Focus
+- Strengthening DSA fundamentals  
+- Writing clean and readable code  
+- Preparing for internship opportunities  
+
+---
+
+## 🤝 Connect with Me
+🔗 LinkedIn: https://www.linkedin.com/in/nyomika-jain-135960381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
