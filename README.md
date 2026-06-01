@@ -1,37 +1,79 @@
 # Hi, I'm Nyomika Jain 👋
 
-🎓 BTech CSE (2nd Year Student)  
-💻 Learning to build strong coding fundamentals  
-🌱 Exploring C, Python & Data Structures  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-In_Progress-green?style=for-the-badge"/>
+</p>
+
+<h3 align="center">🚀 B.Tech CSE Student | Third Year | Aspiring Software Developer</h3>
 
 ---
 
-## ✨ About Me
-I am a Computer Science student focused on consistency and clarity in coding.  
-I believe in learning concepts deeply and applying them through practice.
+## 💫 About Me
+
+🎓 Third-Year Computer Science Engineering Student
+
+💻 Passionate about coding, problem-solving, and continuous learning
+
+🌱 Currently learning **Java** and strengthening **Data Structures & Algorithms**
+
+📚 Focused on building strong programming fundamentals and writing clean, readable code
+
+🎯 Preparing for software development internships and technical interviews
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** C, Python  
-- **Core Subjects:** DSA, OOPS (Basics)  
-- **Tools:** Git, GitHub, VS Code  
+## 🛠️ Tech Stack
+
+### Languages
+
+* C
+* C++
+* Python
+* Java *(Currently Learning)*
+
+### Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* Problem Solving
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* LeetCode
 
 ---
 
-## 📂 What you'll find on my GitHub
-✔️ Beginner-friendly code  
-✔️ Well-structured repositories  
-✔️ Continuous learning progress  
+## 📈 Current Focus
+
+🔹 DSA with Java
+
+🔹 Problem Solving
+
+🔹 Clean Code Practices
+
+🔹 Software Development Fundamentals
+
+🔹 Continuous Learning
 
 ---
 
-## 🎯 Current Focus
-- Strengthening DSA fundamentals  
-- Writing clean and readable code  
-- Preparing for internship opportunities  
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://leetcode.com/u/nyomikajain19/
+
+💻 GitHub: https://github.com/nyomikajain19
+
+📧 Email: nyomikajain12345@gmail.com
 
 ---
 
-## 🤝 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/nyomika-jain-135960381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### 💡 Motto
+
+> Learn • Build • Improve • Repeat
