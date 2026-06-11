@@ -70,8 +70,6 @@
 
 💻 GitHub: https://github.com/nyomikajain19
 
-📧 Email: nyomikajain12345@gmail.com
-
 ---
 
 ### 💡 Motto
